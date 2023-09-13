@@ -1,2 +1,2 @@
 # OIBSIP
-Oasis info byte data science  Internship maintain a separate GitHub repository
+Oasis info byte data science  Internship  separate GitHub repository
